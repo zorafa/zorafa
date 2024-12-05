@@ -25,14 +25,14 @@ Bienvenue sur mon profil GitHub ! Je suis **étudiant en cybersécurité** et pa
 
 ## 🌟 Mes projets
 
-### 🔐 **[Analyse de Risques Dynamique avec XGBoost](#)**  
-Un projet combinant **cybersécurité** et **machine learning** pour améliorer l'analyse des menaces en temps réel.
+### 🤖 Détection d'Intrusions avec une IA sur Mesure
+Développement d'un système d'intelligence artificielle conçu pour détecter des intrusions réseau en temps réel. L'IA est entraînée à partir de données simulées et réelles, en utilisant des algorithmes de classification supervisée (Random Forest, Gradient Boosting, et Neural Networks).
+Le système est capable de :
 
-### 🤖 **[Assistant IA en Python](#)**  
-Un assistant vocal basé sur Python, capable de répondre à des commandes et d'effectuer des tâches simples grâce au traitement du langage naturel.
-
-### 🕹️ **[Jeu Puissance 4 en React et TypeScript](#)**  
-Un jeu interactif en React, intégrant une logique de jeu intelligente et des fonctionnalités avancées.
+Identifier les comportements anormaux sur le réseau.
+Catégoriser les menaces (ex. : attaques DDoS, scans réseau, etc.).
+Fournir des alertes en temps réel grâce à une interface API Flask connectée à un tableau de bord.
+Objectif : Améliorer la sécurité proactive en automatisant la surveillance des réseaux dans des environnements d'entreprise.
 
 ---
 
