@@ -37,16 +37,15 @@ Un jeu interactif en React, intégrant une logique de jeu intelligente et des fo
 ---
 
 ## 📈 Statistiques GitHub
-![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonNomUtilisateur&show_icons=true&theme=radical)
+![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=zorafa&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Me contacter
 
-- ✉️ Email : [ton.email@example.com](mailto:ton.email@example.com)
-- 💼 LinkedIn : [linkedin.com/in/tonprofil](https://linkedin.com/in/tonprofil)
-- 🌐 Portfolio : [ton-site-personnel.com](https://ton-site-personnel.com)
-
+- ✉️ Email : [belleaupaul@gmail.com](mailto:belleaupaul@gmail.com)
+- 💼 LinkedIn : [https://www.linkedin.com/in/paul-belleau/]([https://linkedin.com/in/tonprofil](https://www.linkedin.com/in/paul-belleau/))
+  
 ---
 
 Merci d'avoir visité mon profil ! N'hésitez pas à explorer mes projets ou à me contacter. 🚀
