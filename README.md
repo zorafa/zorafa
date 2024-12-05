@@ -1,22 +1,52 @@
 # 👋 Salut, moi c'est Paul !
 
-Je suis un étudiant en cybersécurité et développement passionné par [tes passions principales].
+Bienvenue sur mon profil GitHub ! Je suis **étudiant en cybersécurité** et passionné par le **développement Python** et l'**intelligence artificielle**. Je travaille activement sur des projets qui allient **sécurité informatique** et **technologies innovantes**.
 
 ---
 
-## 🌟 Ce que je fais
-- 🔒 Expert en **cybersécurité**.
-- 💻 Développeur front-end/back-end avec React et TypeScript.
-- 🌐 Actuellement intéressé par l’automatisation en Python.
+## 🚀 À propos de moi
+
+- 🎓 Étudiant en **Master Cybersécurité** à **La Guardia Cybersecurity School**.
+- 💻 Développeur spécialisé en **Python** avec un intérêt particulier pour l'**IA** et l'**automatisation des tâches**.
+- 🔒 Passionné par la sécurisation des systèmes et le développement de solutions robustes.
 
 ---
 
 ## 🛠️ Compétences
-![Python](https://img.shields.io/badge/Code-Python-blue)
-![React](https://img.shields.io/badge/Framework-React-blue)
-![TypeScript](https://img.shields.io/badge/Code-TypeScript-blue)
+
+### Langages et outils :
+- 🐍 **Python**
+- 🤖 **IA/Apprentissage automatique** (TensorFlow, PyTorch)
+- 🌐 **Développement Web** (HTML, CSS, React, Flask)
+- 🔒 **Cybersécurité** (Analyse de risques, PSSI, Pentesting)
+- 📊 **Data Science** (Pandas, NumPy, Matplotlib)
 
 ---
 
-## 📈 Mes Stats
+## 🌟 Mes projets
+
+### 🔐 **[Analyse de Risques Dynamique avec XGBoost](#)**  
+Un projet combinant **cybersécurité** et **machine learning** pour améliorer l'analyse des menaces en temps réel.
+
+### 🤖 **[Assistant IA en Python](#)**  
+Un assistant vocal basé sur Python, capable de répondre à des commandes et d'effectuer des tâches simples grâce au traitement du langage naturel.
+
+### 🕹️ **[Jeu Puissance 4 en React et TypeScript](#)**  
+Un jeu interactif en React, intégrant une logique de jeu intelligente et des fonctionnalités avancées.
+
+---
+
+## 📈 Statistiques GitHub
 ![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonNomUtilisateur&show_icons=true&theme=radical)
+
+---
+
+## 📫 Me contacter
+
+- ✉️ Email : [ton.email@example.com](mailto:ton.email@example.com)
+- 💼 LinkedIn : [linkedin.com/in/tonprofil](https://linkedin.com/in/tonprofil)
+- 🌐 Portfolio : [ton-site-personnel.com](https://ton-site-personnel.com)
+
+---
+
+Merci d'avoir visité mon profil ! N'hésitez pas à explorer mes projets ou à me contacter. 🚀
