@@ -36,9 +36,3 @@ The system is capable of:
 
 ## 📈 GitHub Stats  
 ![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=zorafa&show_icons=true&theme=radical)
-
----
-
-## 📫 Contact Me  
-- ✉️ Email: [belleaupaul@gmail.com](mailto:belleaupaul@gmail.com)  
-- 💼 LinkedIn: [Paul Belleau](https://www.linkedin.com/in/paul-belleau/)  
