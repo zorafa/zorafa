@@ -44,7 +44,7 @@ Objectif : Améliorer la sécurité proactive en automatisant la surveillance de
 ## 📫 Me contacter
 
 - ✉️ Email : [belleaupaul@gmail.com](mailto:belleaupaul@gmail.com)
-- 💼 LinkedIn : [linkedin.com/in/tonprofil]((https://www.linkedin.com/in/paul-belleau/))
+- 💼 LinkedIn :https://www.linkedin.com/in/paul-belleau/
   
 ---
 
