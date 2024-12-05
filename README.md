@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Salut, moi c'est Paul !
 
-<!--
-**zorafa/zorafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis un étudiant en cybersécurité et développement passionné par [tes passions principales].
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Ce que je fais
+- 🔒 Expert en **cybersécurité**.
+- 💻 Développeur front-end/back-end avec React et TypeScript.
+- 🌐 Actuellement intéressé par l’automatisation en Python.
+
+---
+
+## 🛠️ Compétences
+![Python](https://img.shields.io/badge/Code-Python-blue)
+![React](https://img.shields.io/badge/Framework-React-blue)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-blue)
+
+---
+
+## 📈 Mes Stats
+![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonNomUtilisateur&show_icons=true&theme=radical)
